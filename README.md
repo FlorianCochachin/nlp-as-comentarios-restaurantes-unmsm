@@ -1,1 +1,1 @@
-# nlp-as-comentarios-restaurantes-unmsm
+# Analisis de sentimiento comentario de resturantes de la Ciudad de Lima
